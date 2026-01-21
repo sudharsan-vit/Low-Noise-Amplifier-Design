@@ -57,4 +57,4 @@ A comparative analysis is performed between cascode and folded-cascode architect
 - A trade-off is observed in P1dB for enhanced linearity
 - Stability conditions are satisfied across the operating band
 
-Detailed plots, schematics, and numerical results are provided in the project paper :contentReference[oaicite:0]{index=0}.
+Detailed plots, schematics, and numerical results are provided in the project paper.
